@@ -10,9 +10,9 @@ mintcarbon allows carbon credit project developers to mint on-chain tokens backe
 
 | Repository | Description | Tech Stack |
 |------------|-------------|------------|
-| [contracts](./repos/contracts/README.md) | Soroban smart contracts — token, marketplace, escrow, governance, verification records, audit log | Rust, Soroban SDK |
-| [backend](./repos/backend/README.md) | Off-chain backend services — REST API, KYC module, registry integrations, notification service, price oracle adapter, compliance reporting | Rust/Go, PostgreSQL, Redis |
-| [web](./repos/web/README.md) | Frontend web dashboard — Issuer, Trader, Compliance Officer, and Admin interfaces | React/Next.js, TypeScript, Tailwind |
+| [contracts](./repos/mintcarbon-contracts/README.md) | Soroban smart contracts — token, marketplace, escrow, governance, verification records, audit log | Rust, Soroban SDK |
+| [backend](./repos/mintcarbonbackend/README.md) | Off-chain backend services — REST API, KYC module, registry integrations, notification service, price oracle adapter, compliance reporting | Rust/Go, PostgreSQL, Redis |
+| [web](./repos/mintcarbon-web/README.md) | Frontend web dashboard — Issuer, Trader, Compliance Officer, and Admin interfaces | React/Next.js, TypeScript, Tailwind |
 
 ## Architecture Overview
 
